@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anuj Sengar and I'm a @nd Year B.Tech STudent, from GLA University,MAthura </h2>
+<h2 align="left">Hi 👋! My name is Anuj Sengar and I'm a 2nd Year B.Tech STudent, from GLA University,MAthura </h2>
 
 ###
 
