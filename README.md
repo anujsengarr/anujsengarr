@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java, Front-End<br>🎯 Goals: Full Stack WebDev<br>🎲 Fun fact: I am Immortal</p>
+<p align="left">✨ meow meow <br>📚 I'm currently learning Java, Front-End<br>🎯 Goals: Full Stack WebDev<br>🎲 Fun fact: I am Immortal</p>
 
 ###
 
