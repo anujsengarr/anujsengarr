@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java, Front-End<br>🎯 Goals: Full Stack WebDev<br>🎲 Fun fact: I am Immortal</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with my Brain</h2>
 
 ###
 
