@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://pngdownload.io/png-image/html5-logo-png-symbol-for-web-development-transparent/" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
